@@ -2,6 +2,14 @@
 	path = .registry
 	url = https://github.com/learnitr/learnitr.r-universe.dev
 	branch = HEAD
+[submodule "chart"]
+	path = chart
+	url = https://github.com/SciViews/chart
+	registered = false
+[submodule "data.io"]
+	path = data.io
+	url = https://github.com/SciViews/data.io
+	registered = false
 [submodule "ggcheck"]
 	path = ggcheck
 	url = https://github.com/rstudio/ggcheck
@@ -21,4 +29,12 @@
 	path = learnr
 	url = https://github.com/rstudio/learnr
 	branch = v0.10.5.9000
+	registered = false
+[submodule "svBase"]
+	path = svBase
+	url = https://github.com/SciViews/svBase
+	registered = false
+[submodule "svMisc"]
+	path = svMisc
+	url = https://github.com/SciViews/svMisc
 	registered = false
