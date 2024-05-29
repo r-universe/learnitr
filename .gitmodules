@@ -2,9 +2,23 @@
 	path = .registry
 	url = https://github.com/learnitr/learnitr.r-universe.dev
 	branch = HEAD
+[submodule "ggcheck"]
+	path = ggcheck
+	url = https://github.com/rstudio/ggcheck
+	registered = false
+[submodule "gradethis"]
+	path = gradethis
+	url = https://github.com/rstudio/gradethis
+	branch = v0.2.8.9000
+	registered = false
 [submodule "learnitdown"]
 	path = learnitdown
 	url = https://github.com/learnitr/learnitdown
 [submodule "learnitgrid"]
 	path = learnitgrid
 	url = https://github.com/learnitr/learnitgrid
+[submodule "learnr"]
+	path = learnr
+	url = https://github.com/rstudio/learnr
+	branch = v0.10.5.9000
+	registered = false
