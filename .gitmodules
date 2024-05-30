@@ -1,4 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/learnitr/learnitr.r-universe.dev
 	branch = HEAD
+[submodule "learnitdown"]
+	path = learnitdown
+	url = https://github.com/learnitr/learnitdown
+[submodule "learnitgrid"]
+	path = learnitgrid
+	url = https://github.com/learnitr/learnitgrid
