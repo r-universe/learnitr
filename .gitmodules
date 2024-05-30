@@ -17,7 +17,6 @@
 [submodule "gradethis"]
 	path = gradethis
 	url = https://github.com/rstudio/gradethis
-	branch = v0.2.8.9000
 	registered = false
 [submodule "learnitdashboard"]
 	path = learnitdashboard
@@ -34,7 +33,6 @@
 [submodule "learnr"]
 	path = learnr
 	url = https://github.com/rstudio/learnr
-	branch = v0.10.5.9000
 	registered = false
 [submodule "svBase"]
 	path = svBase

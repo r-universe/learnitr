@@ -27,7 +27,6 @@
     "package": "gradethis",
     "url": "https://github.com/rstudio/gradethis",
     "via": ["learnitdown"],
-    "branch": "v0.2.8.9000",
     "from": "learnitdown"
   },
   {
@@ -46,8 +45,7 @@
   {
     "package": "learnr",
     "url": "https://github.com/rstudio/learnr",
-    "via": ["learnitdown"],
-    "branch": "v0.10.5.9000",
+    "via": ["learnitdown", "gradethis"],
     "from": "learnitdown"
   },
   {
