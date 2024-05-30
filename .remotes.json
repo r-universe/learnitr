@@ -1,27 +1,9 @@
 [
   {
-    "package": "chart",
-    "url": "https://github.com/SciViews/chart",
-    "via": ["learnitgrid"],
-    "from": "learnitgrid"
-  },
-  {
-    "package": "data.io",
-    "url": "https://github.com/SciViews/data.io",
-    "via": ["learnitgrid", "chart"],
-    "from": "learnitgrid"
-  },
-  {
     "package": "ggcheck",
     "url": "https://github.com/rstudio/ggcheck",
     "via": ["learnitdown", "gradethis"],
     "from": "learnitdown"
-  },
-  {
-    "package": "ggcheck",
-    "url": "https://github.com/rstudio/ggcheck",
-    "via": ["learnitgrid", "learnitdown", "gradethis"],
-    "from": "learnitgrid"
   },
   {
     "package": "gradethis",
@@ -30,41 +12,9 @@
     "from": "learnitdown"
   },
   {
-    "package": "gradethis",
-    "url": "https://github.com/rstudio/gradethis",
-    "via": ["learnitgrid", "learnitdown"],
-    "branch": "v0.2.8.9000",
-    "from": "learnitgrid"
-  },
-  {
-    "package": "learnitdown",
-    "url": "https://github.com/learnitr/learnitdown",
-    "via": ["learnitgrid"],
-    "from": "learnitgrid"
-  },
-  {
     "package": "learnr",
     "url": "https://github.com/rstudio/learnr",
     "via": ["learnitdown", "gradethis"],
     "from": "learnitdown"
-  },
-  {
-    "package": "learnr",
-    "url": "https://github.com/rstudio/learnr",
-    "via": ["learnitgrid", "learnitdown"],
-    "branch": "v0.10.5.9000",
-    "from": "learnitgrid"
-  },
-  {
-    "package": "svBase",
-    "url": "https://github.com/SciViews/svBase",
-    "via": ["learnitgrid", "chart", "data.io"],
-    "from": "learnitgrid"
-  },
-  {
-    "package": "svMisc",
-    "url": "https://github.com/SciViews/svMisc",
-    "via": ["learnitgrid", "chart", "data.io", "svBase"],
-    "from": "learnitgrid"
   }
 ]
