@@ -1,5 +1,11 @@
 [
   {
+    "package": "data.io",
+    "url": "https://github.com/SciViews/data.io",
+    "via": ["learnitgrid"],
+    "from": "learnitgrid"
+  },
+  {
     "package": "ggcheck",
     "url": "https://github.com/rstudio/ggcheck",
     "via": ["learnitdown", "gradethis"],
@@ -16,5 +22,17 @@
     "url": "https://github.com/rstudio/learnr",
     "via": ["learnitdown", "gradethis"],
     "from": "learnitdown"
+  },
+  {
+    "package": "svBase",
+    "url": "https://github.com/SciViews/svBase",
+    "via": ["learnitgrid", "data.io"],
+    "from": "learnitgrid"
+  },
+  {
+    "package": "svMisc",
+    "url": "https://github.com/SciViews/svMisc",
+    "via": ["learnitgrid", "data.io", "svBase"],
+    "from": "learnitgrid"
   }
 ]
