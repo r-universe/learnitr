@@ -6,6 +6,12 @@
     "from": "learnitgrid"
   },
   {
+    "package": "data.trame",
+    "url": "https://github.com/SciViews/data.trame",
+    "via": ["learnitgrid", "data.io"],
+    "from": "learnitgrid"
+  },
+  {
     "package": "ggcheck",
     "url": "https://github.com/rstudio/ggcheck",
     "via": ["learnitdown", "gradethis"],
@@ -32,7 +38,7 @@
   {
     "package": "svMisc",
     "url": "https://github.com/SciViews/svMisc",
-    "via": ["learnitgrid", "data.io", "svBase"],
+    "via": ["learnitgrid"],
     "from": "learnitgrid"
   }
 ]
