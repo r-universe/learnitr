@@ -18,16 +18,34 @@
     "from": "learnitdown"
   },
   {
+    "package": "ggcheck",
+    "url": "https://github.com/rstudio/ggcheck",
+    "via": ["learnitgrid"],
+    "from": "learnitgrid"
+  },
+  {
     "package": "gradethis",
     "url": "https://github.com/rstudio/gradethis",
     "via": ["learnitdown"],
     "from": "learnitdown"
   },
   {
+    "package": "gradethis",
+    "url": "https://github.com/rstudio/gradethis",
+    "via": ["learnitgrid", "ggcheck"],
+    "from": "learnitgrid"
+  },
+  {
     "package": "learnr",
     "url": "https://github.com/rstudio/learnr",
     "via": ["learnitdown", "gradethis"],
     "from": "learnitdown"
+  },
+  {
+    "package": "learnr",
+    "url": "https://github.com/rstudio/learnr",
+    "via": ["learnitgrid", "ggcheck", "gradethis"],
+    "from": "learnitgrid"
   },
   {
     "package": "svBase",
