@@ -2,22 +2,6 @@
 	path = .registry
 	url = https://github.com/learnitr/learnitr.r-universe.dev
 	branch = HEAD
-[submodule "data.io"]
-	path = data.io
-	url = https://github.com/SciViews/data.io
-	registered = false
-[submodule "data.trame"]
-	path = data.trame
-	url = https://github.com/SciViews/data.trame
-	registered = false
-[submodule "ggcheck"]
-	path = ggcheck
-	url = https://github.com/rstudio/ggcheck
-	registered = false
-[submodule "gradethis"]
-	path = gradethis
-	url = https://github.com/rstudio/gradethis
-	registered = false
 [submodule "learnitdashboard"]
 	path = learnitdashboard
 	url = https://github.com/learnitr/learnitdashboard
@@ -30,15 +14,3 @@
 [submodule "learnitprogress"]
 	path = learnitprogress
 	url = https://github.com/learnitr/learnitprogress
-[submodule "learnr"]
-	path = learnr
-	url = https://github.com/rstudio/learnr
-	registered = false
-[submodule "svBase"]
-	path = svBase
-	url = https://github.com/SciViews/svBase
-	registered = false
-[submodule "svMisc"]
-	path = svMisc
-	url = https://github.com/SciViews/svMisc
-	registered = false
